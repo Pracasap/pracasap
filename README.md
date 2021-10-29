@@ -2,7 +2,7 @@
 
 I am a web/mobile app developer.
 
-- 🌱 &nbsp; I’m currently learning backend development.
+- 🌱 &nbsp; I’m currently working on different projects and expandng my knowledge.
 - 👯 &nbsp; I’m looking to collaborate with other developers and build some cool projects.
 - 💬 &nbsp; Ask me about anything, I am happy to help :)
 - 💻 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/prakashsapkota7/)<br><br>
