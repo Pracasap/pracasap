@@ -1,6 +1,6 @@
-👋 &nbsp; Hello there! I'm Prakash Sapkota
+👋 &nbsp; Hello there! I'm Prakash Sapkota.
 
-I am a web/mobile app developer.
+I am a Full Stack web/mobile app developer located in Dallas/DFW Area.
 
 - 🌱 &nbsp; I’m currently working on different projects and expandng my knowledge.
 - 👯 &nbsp; I’m looking to collaborate with other developers and build some cool projects.
