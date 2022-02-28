@@ -1,6 +1,6 @@
 👋 &nbsp; Hello there! I'm Prakash Sapkota.
 
-I am a Full Stack web/mobile app developer located in Dallas/DFW Area.
+I am a frontend developer. My ambition is to become a full-stack developer.
 
 - 🌱 &nbsp; I’m currently working on different projects and expandng my knowledge.
 - 👯 &nbsp; I’m looking to collaborate with other developers and build some cool projects.
